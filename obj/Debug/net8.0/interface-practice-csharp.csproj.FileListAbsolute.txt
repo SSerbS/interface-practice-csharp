@@ -1,0 +1,15 @@
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\bin\Debug\net8.0\interface-practice-csharp.exe
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\bin\Debug\net8.0\interface-practice-csharp.deps.json
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\bin\Debug\net8.0\interface-practice-csharp.runtimeconfig.json
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\bin\Debug\net8.0\interface-practice-csharp.dll
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\bin\Debug\net8.0\interface-practice-csharp.pdb
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\obj\Debug\net8.0\interface-practice-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\obj\Debug\net8.0\interface-practice-csharp.AssemblyInfoInputs.cache
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\obj\Debug\net8.0\interface-practice-csharp.AssemblyInfo.cs
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\obj\Debug\net8.0\interface-practice-csharp.csproj.CoreCompileInputs.cache
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\obj\Debug\net8.0\interface-practice-csharp.sourcelink.json
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\obj\Debug\net8.0\interface-practice-csharp.dll
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\obj\Debug\net8.0\refint\interface-practice-csharp.dll
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\obj\Debug\net8.0\interface-practice-csharp.pdb
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\obj\Debug\net8.0\interface-practice-csharp.genruntimeconfig.cache
+C:\Users\playe\Documents\GitHub\interface-practice-csharp\obj\Debug\net8.0\ref\interface-practice-csharp.dll
